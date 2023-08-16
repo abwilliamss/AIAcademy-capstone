@@ -8,24 +8,24 @@ This file contains these sections:
 
 Overview
 
-Business Understanding
+  Business Understanding: 
 
-Include stakeholder and key business questions
+  Include stakeholder and key business questions
 
 Data Understanding and Analysis
 
-Source of data
+  Source of data
 
-Description of data
+  Description of data
 
-Three visualizations (the same visualizations presented in the slides and notebook)
+  Three visualizations (the same visualizations presented in the slides and notebook)
 
 Statistical Communication
 
-Results of statistical inference
+  Results of statistical inference
 
-Interpretation of these results in the context of the problem
+  Interpretation of these results in the context of the problem
 
 Conclusion
 
-Summary of conclusions including three relevant findings
+  Summary of conclusions including three relevant findings
