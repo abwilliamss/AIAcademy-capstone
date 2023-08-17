@@ -8,10 +8,11 @@ Include stakeholder and key business questions: What film genres are doing the b
 
 Data Understanding and Analysis
 
-  Source of data: 
-  Data was collected from 
+  Sources of data: 
+  Data used was collected from imdb.com, the-numbers.com, themoviedb.org
 
   Description of data
+  IMDB Data consists of 
 
   Three visualizations (the same visualizations presented in the slides and notebook)
   
