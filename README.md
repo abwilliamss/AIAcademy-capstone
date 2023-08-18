@@ -46,7 +46,8 @@
   - Why focus on profit:
     
   ![Scatter Plot 1](/Images/Scatterplot_1.jpg)
- 
+
+  ![Scatter Plot 2](/Images/Scatterplot_2.jpg)
 
  
  - Genre Prioritization:
