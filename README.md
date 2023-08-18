@@ -9,18 +9,6 @@
 
    ► Computing Vision is in a competitive industry and is looking to expand its business by creating original video content. The company has decided to create a new movie studio, but they don’t have much background in creating movies. As         Deloitte professionals, we are responsible for exploring what types of films are currently doing the best at the box    office using different samples of available data. After conducting extensive data analysis, our team will translate        those findings into actionable insights that the head of Computing Vision's new movie studio can use to help decide what type of films to create.
 
-## Navigating the repository:
-§ Branches
-   ► There are two types of branches, the main/production branch and the development branches
-   ► The main branch contains all of the finalized code, whereas the development branch contains each respective team member's work
-   ► Commits can be viewed at https://github.com/abwilliamss/AIAcademy-capstone/commits/(branch name)
-
-§ File Structure
-   ► AI Academy Capstone Project.ipynb is the finalized notebook file
-   ► Readme.md contains the description of the project
-   ► .gitignore contains all of the files that git will not track or commit, typically large or irrelevant files
-
-
 ## Data Understanding & Analysis:
 
 #### Source and Description of Data:
@@ -88,6 +76,16 @@
         ► An actionable item for Computing Vision to maximize profit would be creating a project that is within 140 to 180 minutes. A note to keep in mind is that this value also depends on Computing Vision's production budget. This recommendation is based solely on the given data set.
 
 
+## Navigating the repository:
+§ Branches
+   ► There are two types of branches, the main/production branch and the development branches
+   ► The main branch contains all of the finalized code, whereas the development branch contains each respective team member's work
+   ► Commits can be viewed at https://github.com/abwilliamss/AIAcademy-capstone/commits/(branch name)
+
+§ File Structure
+   ► AI Academy Capstone Project.ipynb is the finalized notebook file
+   ► Readme.md contains the description of the project
+   ► .gitignore contains all of the files that git will not track or commit, typically large or irrelevant files
 
 ## Conclusion:
 § Computing Vision Business Goal: Increase Profitability using 3 recommendations
