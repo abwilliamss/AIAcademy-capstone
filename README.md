@@ -106,5 +106,3 @@
    - [IMDB](https://www.imdb.com/)
    - [TheMovieDB](https://www.themoviedb.org/)
    - [The Numbers](https://www.the-numbers.com/)
-
-
