@@ -29,7 +29,7 @@
         - Sci-fi: $202 million
 
 - Directorship Prioritization:
-   - Top 8 directors (produced 5+ movies) that have the highest average gross profit across movies they directed *doesn't  take genre into account*
+   - Top 8 directors (produced 5+ movies) that have the highest average gross profit across movies they directed \(doesn't  take genre into account\)
    - Top 3 Directors:
       - Joss Whedon $1.46 billion
       - Anthony Russo $1.30 billion
@@ -37,23 +37,26 @@
    - Directorship recommendations based on genre:
       - Animation: Brad Bird
       - Adventure: Colin Trevorrow
-      - Sci-Fi: Colin Trevorrw
+      - Sci-Fi: Colin Trevorrow
 
 - Runtime Optimization:
    - Optimal runtime for films: Between 140 and 180 minutes
 
 #### Visualizations:
   - Why focus on profit:
+    
+  ![Scatter Plot 1](/Images/Scatterplot_1.jpg)
+ 
 
  
- 
- 
  - Genre Prioritization:
- ![image.png](attachment:image.png)
+
+ ![Genres Graph](/Images/Genres_graph.jpg)
  
 
  - Directorship Prioritization:
- ![image-2.png](attachment:image-2.png)
+   
+ ![Directorship Graph](/Images/directorship_graph.jpg)
  
  
  
