@@ -48,8 +48,7 @@
 
 #### Visualizations:
   § Why focus on profit:
- ![image-3.png](attachment:image-3.png)
- ![image-4.png](attachment:image-4.png)
+
  
  
  
@@ -85,7 +84,6 @@
 § Computing Vision Business Goal: Increase Profitability using 3 recommendations
         ► Genre Prioritization: Animation, Adventure, Sci-Fi
         ► Directorship Prioritization:Joss Whedon, Anthony Russo, Adam Green or  Brad Bird for an Animation film, and Colin Trevorrow for an Adventure or Sci-Fi film 
-<<<<<<< HEAD
         ► Runtime Optimization: Between 87.3-122.7 minutes
 
 
@@ -97,6 +95,5 @@
         ► [IMDB](https://www.imdb.com/)
         ► [TheMovieDB](https://www.themoviedb.org/) 
         ► [The Numbers](https://www.the-numbers.com/)
-=======
-        ► Runtime Optimization: Between 140-180 minutes
->>>>>>> e556cfb04cb0cf22bd56e86704c42d6204ece62b
+
+
