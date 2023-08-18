@@ -70,7 +70,7 @@
         ► When conducting statistical testing, we found that there is a significance and runtime does impact worldwide profit
         
 § What Runtime Range Maximizes Profit Worldwide?
-        ► The runtime dataset was divded by standard deviations from the average runtime. We calculated statistical insights including the mean of the profit within each runtime range and compared it against other ranges. On average, a runtime of 140 (approximately) to 180 minutes has the highest worldwide profit ($295 million) across all genres. While the number of datapoints for each respective range vaired, we looked at other statistical calculations such as percentiles and maximum values to reinforce our conclusions.
+        ► The runtime dataset was divided by standard deviations from the average runtime. We calculated statistical insights including the mean of the profit within each runtime range and compared it against other ranges. On average, a runtime of 140 (approximately) to 180 minutes has the highest worldwide profit ($295 million) across all genres. While the number of datapoints for each respective range vaired, we looked at other statistical calculations such as percentiles and maximum values to reinforce our conclusions.
 
 #### Interpretation of these results in the context of the problem
 § The Runtime Value Matters
