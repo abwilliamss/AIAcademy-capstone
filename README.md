@@ -86,3 +86,13 @@
         ► Genre Prioritization: Animation, Adventure, Sci-Fi
         ► Directorship Prioritization:Joss Whedon, Anthony Russo, Adam Green or  Brad Bird for an Animation film, and Colin Trevorrow for an Adventure or Sci-Fi film 
         ► Runtime Optimization: Between 87.3-122.7 minutes
+
+
+
+## Resources:
+§ [Computing Vision Business Recommendations Presentation](https://amedeloitte-my.sharepoint.com/:p:/g/personal/rvanjani_deloitte_com/EbAjkbM5Av5Es9vSwdEFIgUBqqthI59BTML3DVKlw5PYpA?email=kbilgere%40deloitte.com&e=mfa8Y8) 
+
+§ Data Sources:
+        ► [IMDB](https://www.imdb.com/)
+        ► [TheMovieDB](https://www.themoviedb.org/) 
+        ► [The Numbers](https://www.the-numbers.com/)
