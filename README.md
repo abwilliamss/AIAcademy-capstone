@@ -14,8 +14,8 @@
 
 ## Data Understanding & Analysis:
 
-#### Source of Data:
-§ IMDB:
+#### Source and Description of Data:
+§ IMDB - imdb.com:
         ► Database that contains information from the IMDB website, including general movie information. The data was collected within the SQL database, using the movies_basics, movie_ratings, directors, and persons tables and joined with the respective movie IDs
 
 § Numbers & TheMovieDB:
@@ -24,7 +24,7 @@
 § Finalized Data Frame used for Analysis:
         ► Finalized data frame combines the information from these two sources of data, as well as profit calculations.
 
-#### Description of Data:
+#### Results & Recommendations:
 § Genre Prioritization: 
         ► Based on the data analysis, Computing Vision should prioritize Animation, Adventure, and Sci-Fi films 
         ► The profits for these genres based on the analysis are the following:
@@ -44,7 +44,7 @@
             ► Sci-Fi: Colin Trevorrw
 
 § Runtime Optimization:
-        ► Optimal runtime for films: Between 87.3 and 122.7 minutes
+        ► Optimal runtime for films: Between 140 and 180 minutes
 
 #### Visualizations:
   § Why focus on profit:
@@ -66,18 +66,18 @@
 ## Statistical Communication:
 
 #### Results of statistical inference:
-§ XYZ
-        ► XYZ
-
-§ XYZ
-        ► xyz
+§ Testing Significance of Runtime on Worldwide Profit
+        ► When conducting statistical testing, we found that there is a significance and runtime does impact worldwide profit
+        
+§ What Runtime Range Maximizes Profit Worldwide?
+        ► The runtime dataset was divided by standard deviations from the average runtime. We calculated statistical insights including the mean of the profit within each runtime range and compared it against other ranges. On average, a runtime of 140 (approximately) to 180 minutes has the highest worldwide profit ($295 million) across all genres. While the number of datapoints for each respective range vaired, we looked at other statistical calculations such as percentiles and maximum values to reinforce our conclusions.
 
 #### Interpretation of these results in the context of the problem
-§ XYZ
-        ► xyz
+§ The Runtime Value Matters
+        ► For Computing Vision to maximize profit, they need to account for runtime in order to do so. The results of our significance result proved that the runtime value does indeed impact whether or not a movie is profitable worldwide, regardless of genre.
         
-§ XYZ
-        ► xyz
+§ Optimal Runtime Range is 140 to 180 minutes
+        ► An actionable item for Computing Vision to maximize profit would be creating a project that is within 140 to 180 minutes. A note to keep in mind is that this value also depends on Computing Vision's production budget. This recommendation is based solely on the given data set.
 
 
 
@@ -85,6 +85,7 @@
 § Computing Vision Business Goal: Increase Profitability using 3 recommendations
         ► Genre Prioritization: Animation, Adventure, Sci-Fi
         ► Directorship Prioritization:Joss Whedon, Anthony Russo, Adam Green or  Brad Bird for an Animation film, and Colin Trevorrow for an Adventure or Sci-Fi film 
+<<<<<<< HEAD
         ► Runtime Optimization: Between 87.3-122.7 minutes
 
 
@@ -96,3 +97,6 @@
         ► [IMDB](https://www.imdb.com/)
         ► [TheMovieDB](https://www.themoviedb.org/) 
         ► [The Numbers](https://www.the-numbers.com/)
+=======
+        ► Runtime Optimization: Between 140-180 minutes
+>>>>>>> e556cfb04cb0cf22bd56e86704c42d6204ece62b
