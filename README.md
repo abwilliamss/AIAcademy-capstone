@@ -44,7 +44,7 @@
             ► Sci-Fi: Colin Trevorrw
 
 § Runtime Optimization:
-        ► Optimal runtime for films: Between 87.3 and 122.7 minutes
+        ► Optimal runtime for films: Between 140 and 180 minutes
 
 #### Visualizations:
   § Why focus on profit:
@@ -66,18 +66,18 @@
 ## Statistical Communication:
 
 #### Results of statistical inference:
-§ XYZ
-        ► XYZ
-
-§ XYZ
-        ► xyz
+§ Testing Significance of Runtime on Worldwide Profit
+        ► When conducting statistical testing, we found that there is a significance and runtime does impact worldwide profit
+        
+§ What Runtime Range Maximizes Profit Worldwide?
+        ► The runtime dataset was divded by standard deviations from the average runtime. We calculated statistical insights including the mean of the profit within each runtime range and compared it against other ranges. On average, a runtime of 140 (approximately) to 180 minutes has the highest worldwide profit ($295 million) across all genres. While the number of datapoints for each respective range vaired, we looked at other statistical calculations such as percentiles and maximum values to reinforce our conclusions.
 
 #### Interpretation of these results in the context of the problem
-§ XYZ
-        ► xyz
+§ The Runtime Value Matters
+        ► For Computing Vision to maximize profit, they need to account for runtime in order to do so. The results of our significance result proved that the runtime value does indeed impact whether or not a movie is profitable worldwide, regardless of genre.
         
-§ XYZ
-        ► xyz
+§ Optimal Runtime Range is 140 to 180 minutes
+        ► An actionable item for Computing Vision to maximize profit would be creating a project that is within 140 to 180 minutes. A note to keep in mind is that this value also depends on Computing Vision's production budget. This recommendation is based solely on the given data set.
 
 
 
@@ -85,4 +85,4 @@
 § Computing Vision Business Goal: Increase Profitability using 3 recommendations
         ► Genre Prioritization: Animation, Adventure, Sci-Fi
         ► Directorship Prioritization:Joss Whedon, Anthony Russo, Adam Green or  Brad Bird for an Animation film, and Colin Trevorrow for an Adventure or Sci-Fi film 
-        ► Runtime Optimization: Between 87.3-122.7 minutes
+        ► Runtime Optimization: Between 140-180 minutes
