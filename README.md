@@ -16,28 +16,20 @@
 
 #### Source of Data:
 § IMDB:
-        
         ► Database that contains information from the IMDB website, including general movie information. The data was collected within the SQL database, using the movies_basics, movie_ratings, directors, and persons tables and joined with the respective movie IDs
 
 § Numbers & TheMovieDB:
-        
         ► Datasets that contain information about movie popularity, movie budget, and total grossing information from themoviedb.org and the-numbers.com.
 
 § Finalized Data Frame used for Analysis:
-        
         ► Finalized data frame combines the information from these two sources of data, as well as profit calculations.
 
 #### Description of Data:
 § Genre Prioritization: 
-        
         ► Based on the data analysis, Computing Vision should prioritize Animation, Adventure, and Sci-Fi films 
-        
         ► The profits for these genres based on the analysis are the following:
-            
             ► Animation: $250 million
-            
             ► Adventure: $229 million
-            
             ► Sci-fi: $202 million
 
 § Directorship Prioritization:
