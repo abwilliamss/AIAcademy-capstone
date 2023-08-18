@@ -84,6 +84,17 @@
    - This recommendation is based solely on the given data set.
 
 
+
+
+## Conclusion:
+- Computing Vision Business Goal: Increase Profitability using 3 recommendations
+   - Genre Prioritization: Animation, Adventure, Sci-Fi
+   - Directorship Prioritization:Joss Whedon, Anthony Russo, Adam Green or  Brad Bird for an Animation film, and Colin Trevorrow for an Adventure or Sci-Fi film
+   - Runtime Optimization: Between 87.3-122.7 minutes
+
+
+
+
 ## Navigating the repository:
 - Branches
    - There are two types of branches, the main/production branch and the development branches
@@ -95,11 +106,6 @@
    - Readme.md contains the description of the project
    - .gitignore contains all of the files that git will not track or commit, typically large or irrelevant files
 
-## Conclusion:
-- Computing Vision Business Goal: Increase Profitability using 3 recommendations
-   - Genre Prioritization: Animation, Adventure, Sci-Fi
-   - Directorship Prioritization:Joss Whedon, Anthony Russo, Adam Green or  Brad Bird for an Animation film, and Colin Trevorrow for an Adventure or Sci-Fi film
-   - Runtime Optimization: Between 87.3-122.7 minutes
 
 
 
