@@ -78,9 +78,9 @@
 
 ## Navigating the repository:
 § Branches
-   ► There are two types of branches, the main/production branch and the development branches
-   ► The main branch contains all of the finalized code, whereas the development branch contains each respective team member's work
-   ► Commits can be viewed [here](https://github.com/abwilliamss/AIAcademy-capstone/commits)
+   - There are two types of branches, the main/production branch and the development branches
+   - The main branch contains all of the finalized code, whereas the development branch contains each respective team member's work
+   - Commits can be viewed [here](https://github.com/abwilliamss/AIAcademy-capstone/commits)
 
 § File Structure
    ► AI Academy Capstone Project.ipynb is the finalized notebook file
