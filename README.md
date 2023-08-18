@@ -14,8 +14,8 @@
 
 ## Data Understanding & Analysis:
 
-#### Source of Data:
-§ IMDB:
+#### Source and Description of Data:
+§ IMDB - imdb.com:
         ► Database that contains information from the IMDB website, including general movie information. The data was collected within the SQL database, using the movies_basics, movie_ratings, directors, and persons tables and joined with the respective movie IDs
 
 § Numbers & TheMovieDB:
@@ -24,7 +24,7 @@
 § Finalized Data Frame used for Analysis:
         ► Finalized data frame combines the information from these two sources of data, as well as profit calculations.
 
-#### Description of Data:
+#### Results & Recommendations:
 § Genre Prioritization: 
         ► Based on the data analysis, Computing Vision should prioritize Animation, Adventure, and Sci-Fi films 
         ► The profits for these genres based on the analysis are the following:
