@@ -48,7 +48,7 @@
 
 #### Visualizations:
   § Why focus on profit:
- ![image-3.png](attachment:image-3.png)
+ ![Image](attachment:image-3.png)
  ![image-4.png](attachment:image-4.png)
  
  
